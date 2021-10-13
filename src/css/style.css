@@ -24,7 +24,20 @@ body > * {
   margin-right: auto;
 }
 
+.logo-img {
+  
+margin: 0 auto;
+  width: 40vw;
+}
+
+@media only screen and (max-width: 768px) {
+.logo-img {
+  width: 80vw
+}
+}
+
 nav ul {
+  font-size: 2rem;
   list-style: none;
   display: flex;
   flex-wrap: wrap;

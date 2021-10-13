@@ -1,6 +1,8 @@
 {% set currentUrl %}{{ page.url }}{% endset %}
 
 <nav>
+ <img src="/src/assets/img/brand/_Logo(1).svg" alt="Logo" class = "logo-img">
+
   <ul role="list">
     <li>
       <a {% if currentUrl === '/' %}aria-current="page"{% endif %} href="/">Home</a>
