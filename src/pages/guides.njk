@@ -1,5 +1,15 @@
 ---
 title: Guides
+layout: "base.njk"
 ---
 
+<div class="section container">
+<h1 class="section-title">Guides to Making Amazing Things</h1>
+<ul role = "list" class = "articles_list flow">
+{%- for guides in collections.guides | reverse -%}
 
+{% include "article-snippet.njk" %}
+
+{%- endfor %}
+</ul>
+  </div>
