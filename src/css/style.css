@@ -11,7 +11,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
+  padding: 4vh clamp(1rem, 4vw, 3rem) 1rem;
   font-family: system-ui, sans-serif;
   line-height: 1.5;
   color: aliceblue;
@@ -158,18 +158,35 @@ background-color: bisque;
 
 .articles_list {
   list-style-type: none;
+  width: 100%;
 }
 
 .snippet{
+  text-align: center;
+  color: #001D3D;
+  background-color: aliceblue;
  border-style: solid;
- margin: 1rem;
- padding: 1rem;
+ margin-bottom: 2rem;
+ padding: 2rem;
+ margin-right: 1rem;
 }
 
-.btn {
-  
+ .btn-container {
+   margin-top: 1rem;
+ }
+
+
+.btn {  
+  font-size: 3vw;
+  color: #001D3D;
+  text-decoration: none;
   background-color: #FFC300;
-  padding: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.4rem;
+}
+
+.btn:hover {
+  background-color: rgb(87, 174, 250);
 }
 
 
