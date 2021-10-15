@@ -11,6 +11,6 @@ So here is the first one that I personally used for my pedals and I will be putt
 
 Here is the second one. This is were I got the idea to use a usb encoder for the shifter components, and I have to say its a great way to build a shifter and its working till this day. please visit the guides page to learn how to build my shifter. <https://youtu.be/YMD8e26s7VE>
 
-<iframe width="711" height="400" src="https://www.youtube.com/embed/YMD8e26s7VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="400" src="https://www.youtube.com/embed/YMD8e26s7VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is all so far, very soon I will add more articles, links, and videos for you all to enjoy!!!
