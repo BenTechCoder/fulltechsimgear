@@ -2,7 +2,7 @@
 title: My Third Article
 date: 2021-05-28
 author: Ben
-tags: ['guides', 'featured']
+tags: 'guides'
 image: "https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/53/posts/30844/image/telescope.jpg"
 imageAlt: This is a test
 description: Lorem
