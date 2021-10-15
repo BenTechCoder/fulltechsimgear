@@ -154,6 +154,24 @@ border-radius: 1rem;
 background-color: bisque;
 }
 
+/* Card CSS */
+
+.articles_list {
+  list-style-type: none;
+}
+
+.snippet{
+ border-style: solid;
+ margin: 1rem;
+ padding: 1rem;
+}
+
+.btn {
+  
+  background-color: #FFC300;
+  padding: 0.5rem;
+}
+
 
 /* Media */
 
