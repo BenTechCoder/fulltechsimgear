@@ -11,6 +11,10 @@ The first step is that you need to buy a sheet of coroplast blank sign plastic h
 
 Next you will need to buy a Usb joystick encoder and 6 micro lever, the joystick encoder. switches here are the amazon links.<https://www.amazon.com/Quimat-Arcade-Encoder-Joystick-Fighting/dp/B06XD1WF8G/ref=sr_1_6?crid=MGX3WW7XLQA0&dchild=1&keywords=joystick+encoder&qid=1634333851&sr=8-6.> The  micro lever switches. <https://www.amazon.com/URBESTAC-Momentary-Hinge-Roller-Switches/dp/B00MFRMFS6/ref=sr_1_6?crid=22IEIRF82AYF4&dchild=1&keywords=micro+lever+switch&qid=1634333970&sr=8-6.>
 
+
+
+Next you will need the metal pipe, oh and I will also put the Thingiverse link for the shifter knob in case you would like this one. <https://www.thingiverse.com/thing:422254>
+
 Now you will need to cut the plastic to size, here are the dimensions.
 
 ![](/assets/guides-img/oip.jpg)
