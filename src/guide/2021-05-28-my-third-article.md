@@ -1,5 +1,5 @@
 ---
-title: How to build the shifter
+title: How to build the H shifter
 description: Shifter guide
 date: 2021-05-28
 author: Ben
@@ -15,8 +15,6 @@ Next you will need the metal pipe, these are the dimensions for the pipe.
 
 ![](/assets/guides-img/r.jpg)
 
-
-
 oh and I will also put the Thingiverse link for the shifter knob in case you would like this one. <https://www.thingiverse.com/thing:422254>
 
 Now you will need to cut the plastic to size, here are the dimensions.
@@ -27,4 +25,6 @@ Here is the next set of dimensions.
 
 ![](/assets/guides-img/oip-1-.jpg)
 
-Now here are the dimensions for the shifter pattern. Oh and I suggest that to cut out the pattern to use a router, or a jig saw, or any other tool will work. I personally used a router and I worked just fine so thats what I highly suggest. Now here's sort of an idea of the measurements that you will need for the shift pattern.
+Now here are the dimensions for the shifter pattern. Oh and I suggest that to cut out the pattern to use a router, or a jig saw, or any other tool will work. I personally used a router and I worked just fine so thats what I highly suggest. Now is sort of an idea of the measurements that you will need for the shift pattern.
+
+![]()
