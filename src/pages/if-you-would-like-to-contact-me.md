@@ -1,5 +1,5 @@
 ---
-title: If you would like to contact me.
+title: Contact
 ---
 If you would like to contact me for any questions, here is my Email.
 
