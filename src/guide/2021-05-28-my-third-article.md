@@ -1,7 +1,7 @@
 ---
 title: How to build the H shifter
 description: Shifter guide
-date: 2021-05-28
+date: 2021-10-10
 author: Ben
 tags: guides
 image: /assets/guides-img/209f6479-84d1-4da6-9df6-ab17b91ce786.jpg
