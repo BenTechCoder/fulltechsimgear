@@ -196,9 +196,6 @@ a:focus {
   outline: 2px solid currentColor;
   outline-offset: 0.2em;
 }
-.guides-container{
-  margin-top: 2rem;
-}
 
 .index-hero{
   font-size: 2rem;
@@ -257,6 +254,7 @@ color: bisque;
 
 
 .btn {  
+text-align: center;
   font-size: 3.5vw;
   color: #001D3D;
   text-decoration: none;
@@ -305,4 +303,13 @@ blockquote {
   border-left: 3px solid rgba(0, 0, 0, 0.35);
   background-color: rgba(0, 0, 0, 0.05);
   border-radius: 0 0.25rem 0.25rem 0;
+}
+
+@media screen and (max-width: 600px) {
+  hr {
+    width: 100%;
+  }
+  .guides-link-container {
+flex-direction: column;
+  }
 }
