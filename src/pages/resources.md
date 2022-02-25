@@ -5,7 +5,7 @@ Hello. Here are some other web sites and you could also use and that I personall
 
 <!--StartFragment-->
 
-So here is the first one that I personally used for my pedals and I will be putting a more detailed guide for these pedals. [E-Sim Racing Pedals : 3 Steps - Instructables](https://www.instructables.com/E-Sim-Racing-Pedals/)
+So here is the first one that I personally used for my pedals and I might be putting a more detailed guide for these pedals because I did not document the whole prosses. [E-Sim Racing Pedals : 3 Steps - Instructables](https://www.instructables.com/E-Sim-Racing-Pedals/)
 
 <!--EndFragment-->
 
