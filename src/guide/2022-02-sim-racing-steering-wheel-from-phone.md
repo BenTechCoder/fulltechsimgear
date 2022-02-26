@@ -21,4 +21,6 @@ First I will like to list the materials:
 5. Super glue
 6. [Rubber bands](https://www.amazon.com/465-Multicolor-Rubber-Assorted-Dimensions/dp/B000BLJEKU/ref=sr_1_6?crid=2SPRTVP8MK4Z9&keywords=rubber+bands&qid=1645849611&sprefix=rubber+bands+%2Caps%2C95&sr=8-6)
 
-The first thing that we are going is make the case that the smart phone will actually go in to.
+The first thing that we are going is make the case that the smart phone will actually go in to. For this I will not give you specific measurements because the measurements of the Case will always depend on the phone you use, I personally used an iphone 11, here is a picture of the case so you kinda have an idea of what it looks like and the you can adapt the size to your smart phone
+
+![](/assets/guides-img/85b859f4-9b54-40fb-9f29-0d9964a718d2.jpg)
