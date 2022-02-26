@@ -9,28 +9,16 @@ imageAlt: test image
 ---
 Hello everyone!!! I hope you did enjoy my last article about how to make the h shifter. this new one is now about making a sim racing Steering wheel!!!
 
-
-
  Now before I begin, I will redirect you to my other article about the software you do have to download, both on your pc and your smartphone, so before you continue on this article please do go over there.
-
-
 
 First I will like to list the materials:
 
 [1. The same coroplast blank sign plastic that we used for the shifter](https://www.amazon.com/Corrugated-Plastic-Sheets-Coroplast-Intepro/dp/B00U6EOSYY/ref=sr_1_4?crid=JTKLETXG3FY4&keywords=blank+coroplast&qid=1645846597&sprefix=blank+coro%2Caps%2C93&sr=8-4)[](https://www.amazon.com/Corrugated-Plastic-Sheets-Coroplast-Intepro/dp/B00U6EOSYY/ref=sr_1_4?crid=JTKLETXG3FY4&keywords=blank+coroplast&qid=1645846597&sprefix=blank+coro%2Caps%2C93&sr=8-4)
 
 2. Ply wood
-
-3. Red pvc, you can find this pvc at lowes or home depot, it is the only red pvc, and it is not thick.
-
+3. Red pvc, you can find this pvc at Lowes or Home depot, it is the only red pvc, and it is not thick.
 4. Hot glue
-
 5. Super glue
-
 6. [Rubber bands](https://www.amazon.com/465-Multicolor-Rubber-Assorted-Dimensions/dp/B000BLJEKU/ref=sr_1_6?crid=2SPRTVP8MK4Z9&keywords=rubber+bands&qid=1645849611&sprefix=rubber+bands+%2Caps%2C95&sr=8-6)
-
-
-
-
 
 The first thing that we are going is make the case that the smart phone will actually go in to.
