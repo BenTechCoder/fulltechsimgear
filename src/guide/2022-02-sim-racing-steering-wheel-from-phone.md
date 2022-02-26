@@ -1,5 +1,5 @@
 ---
-title: "Sim racing steering wheel, from phone "
+title: Sim racing steering wheel, out of smartphone
 description: "Out of phone app "
 date: 2022-02-25T01:54:58.950Z
 tags:
