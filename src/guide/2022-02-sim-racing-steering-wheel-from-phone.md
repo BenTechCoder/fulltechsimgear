@@ -25,4 +25,4 @@ The first thing that we are going is make the case that the smart phone will act
 
 ![](/assets/guides-img/85b859f4-9b54-40fb-9f29-0d9964a718d2.jpg)
 
-Next we will cut a piece Ply wood to the same diameter of the phone case
+Next we will cut a piece Ply wood to the same diameter of the phone case, remember the diameter of the case and the ply wood will depend on your smartphone size and you have the liberty of adjusting it. Here is a picture of the ply wood that
