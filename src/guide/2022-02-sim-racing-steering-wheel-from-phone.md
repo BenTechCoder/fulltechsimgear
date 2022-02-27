@@ -29,8 +29,8 @@ Next we will cut a piece Ply wood to the same diameter of the phone case, rememb
 
 ![](/assets/guides-img/593e1ebf-5387-4372-81de-3a4e759ef86d.jpg)
 
+Next lets talk about the handles. The handles, they are 3d printed (OBVIOSLY) here is a picture of the 3d model, and then the printed version
+
 ![](/assets/guides-img/steering-wheel-handle-3d-model-image.png)
 
 ![](/assets/guides-img/080acf9f-c145-44c1-859a-359ee876e0e7.jpg)
-
-Next lets talk about the handles. The handles, they are 3d printed (OBVIOSLY) here is a picture of the 3d model, and then the printed version
