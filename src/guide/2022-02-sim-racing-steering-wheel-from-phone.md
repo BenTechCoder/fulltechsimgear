@@ -4,7 +4,7 @@ description: "Out of phone app "
 date: 2022-02-25T01:54:58.950Z
 tags:
   - guides
-image: /assets/guides-img/r.jpg
+image: /assets/guides-img/e886286f-486a-4121-9ef7-2d1f4e74be8e.jpg
 imageAlt: test image
 ---
 Hello everyone!!! I hope you did enjoy my last article about how to make the h shifter. this new one is now about making a sim racing Steering wheel!!!
@@ -28,3 +28,9 @@ The first thing that we are going is make the case that the smart phone will act
 Next we will cut a piece Ply wood to the same diameter of the phone case, remember the diameter of the case and the ply wood will depend on your smartphone size and you have the liberty of adjusting it. Here is a picture of the ply wood that I attached to the back of the phone case.
 
 ![](/assets/guides-img/593e1ebf-5387-4372-81de-3a4e759ef86d.jpg)
+
+![](/assets/guides-img/steering-wheel-handle-3d-model-image.png)
+
+![](/assets/guides-img/080acf9f-c145-44c1-859a-359ee876e0e7.jpg)
+
+Next lets talk about the handles. The handles, they are 3d printed (OBVIOSLY) here is a picture of the 3d model, and then the printed version
