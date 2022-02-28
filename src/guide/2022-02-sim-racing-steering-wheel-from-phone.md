@@ -35,8 +35,8 @@ Next lets talk about the handles. The handles, they are 3d printed (OBVIOSLY) he
 
 ![](/assets/guides-img/080acf9f-c145-44c1-859a-359ee876e0e7.jpg)
 
-Here are the 3d models (Btw, I do recommend that you do use cura slicer, or pursa slicer)
+Here is my thingiverse file (Btw, I do recommend that you do use cura slicer, or pursa slicer)
 
+[3d models.](https://www.thingiverse.com/thing:5265639)
 
-
-[Steering wheel handle ](https://www.tinkercad.com/things/eaXw9Ls2fuw-phone-steering-wheel-handels/edit)
+[](https://www.tinkercad.com/things/eaXw9Ls2fuw-phone-steering-wheel-handels/edit)
