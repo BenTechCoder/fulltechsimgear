@@ -39,4 +39,10 @@ Here is my thingiverse file (Btw, I do recommend that you do use cura slicer, or
 
 [3d models.](https://www.thingiverse.com/thing:5265639)
 
-[](https://www.tinkercad.com/things/eaXw9Ls2fuw-phone-steering-wheel-handels/edit)
+
+
+Now when you have the handles 3d printed, go ahead and get your super glue the handles to the sides of the phone case. Oh one thing that I almost forgot, if you look back at the picture of the wood panel on the back of the phone case there is a little cylinder, that is for attaching the wheel to the wheel base, here is the picture of the 3d model.
+
+![](/assets/guides-img/steering-wheel-pvc-conection-3d-image.png)
+
+.[](https://www.tinkercad.com/things/eaXw9Ls2fuw-phone-steering-wheel-handels/edit)
