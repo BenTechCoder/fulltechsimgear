@@ -13,8 +13,6 @@ Next you will need to buy a Usb joystick encoder and 6 micro lever, the joystick
 
 Next you will need the metal pipe, these are the dimensions for the pipe.
 
-![](/assets/guides-img/r.jpg)
-
 oh and I will also put the Thingiverse link for the shifter knob in case you would like this one. <https://www.thingiverse.com/thing:422254>
 
 Now you will need to cut the plastic to size, here are the dimensions.
