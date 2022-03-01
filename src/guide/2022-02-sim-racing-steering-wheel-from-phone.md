@@ -44,6 +44,10 @@ Now when you have the handles 3d printed, go ahead and get your super glue the h
 
 The actual 3d model is also in the thingiverse file just above.
 
-So, once you have the Steering wheel connection printed, go ahead a look for a strait piece
+So, once you have the Steering wheel connection printed, go ahead and look for a strait piece of wood and put it on the wood that you cut for the back of the phone case, make sure you align it with the bottom left corner and then for the top right corner, then draw a line from corner to corner, then do the same for the other two corners, and then were the two lines meet up that is the center of the piece of wood on the phone case. 
+
+
+
+Now once you have the lines and the Steering wheel connection, try to eyeball the connection to the center and make sure that the two holes on the side of the connection are facing vertical or horizontal, it is most preferable for it to be horizontal and that's the way I did it but you can do it which ever of those two way you'd like. And then just super glue it on.
 
 [](https://www.tinkercad.com/things/eaXw9Ls2fuw-phone-steering-wheel-handels/edit)
