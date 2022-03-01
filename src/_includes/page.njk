@@ -2,6 +2,20 @@
 layout: base.njk
 ---
 
+<style>
+  .hero-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  background-image: url({{ heroImage }});
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  text-align: center;
+  height: 50vh;
+}
+</style>
+
 <header class="hero-container">
   <h1 class="hero">{{ title }}</h1>
 </header>

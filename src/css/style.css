@@ -119,12 +119,7 @@ margin: 0 auto;
   max-width: 70%;
 }
 
-.hero-container {
-  background-image: url(../assets/16661915478_b89cf8096e_c.jpg);
-  color: aliceblue;
-  text-align: center;
-  padding: 4rem;
-}
+
 
 .hero {
   text-shadow: 2px 2px 2px #FFC300;
