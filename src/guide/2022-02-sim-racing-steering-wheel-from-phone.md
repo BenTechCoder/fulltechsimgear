@@ -30,7 +30,7 @@ Next we will cut a piece Ply wood to the same diameter of the phone case, rememb
 
 Next lets talk about the handles. The handles, they are 3d printed (OBVIOSLY) here is a picture of the 3d model, and then the printed version.
 
-![](/assets/guides-img/steering-wheel-handle-3d-model-image.png)
+![](/assets/guides-img/phone-steering-wheel-handle-v2.png)
 
 ![](/assets/guides-img/080acf9f-c145-44c1-859a-359ee876e0e7.jpg)
 
@@ -45,8 +45,6 @@ Now when you have the handles 3d printed, go ahead and get your super glue the h
 The actual 3d model is also in the thingiverse file just above.
 
 So, once you have the Steering wheel connection printed, go ahead and look for a strait piece of wood and put it on the wood that you cut for the back of the phone case, make sure you align it with the bottom left corner and then for the top right corner, then draw a line from corner to corner, then do the same for the other two corners, and then were the two lines meet up that is the center of the piece of wood on the phone case. 
-
-
 
 Now once you have the lines and the Steering wheel connection, try to eyeball the connection to the center and make sure that the two holes on the side of the connection are facing vertical or horizontal, it is most preferable for it to be horizontal and that's the way I did it but you can do it which ever of those two way you'd like. And then just super glue it on.
 
