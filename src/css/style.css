@@ -52,9 +52,11 @@ a:not([class]) {
 /* Make images easier to work with */
 img,
 picture {
+  max-width: min(55rem, 100%);
   max-width: 100%;
   display: block;
 }
+
 
 /* Inherit fonts for inputs and buttons */
 input,
@@ -91,37 +93,184 @@ select {
     --size-700: 2.36rem;
     --size-800: 3.15rem;
     --size-900: 4.2rem;
+    /* Theme */
+    --background: 
   }
 
 
-body {
-  background-color: #001D3D;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  padding: 4vh clamp(1rem, 4vw, 3rem) 1rem;
-  font-family: system-ui, sans-serif;
-  line-height: 1.5;
-  color: aliceblue;
+  body {
+    background-color: #001D3D;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 4vh clamp(1rem, 4vw, 3rem) 1rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    line-height: 1.5;
+    color: aliceblue;
+  }
+  
+  body > * {
+    --layout-spacing: max(8vh, 3rem);
+    --max-width: 110ch;
+    width: min(100%, var(--max-width));
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* 
+  Start typography
+  */
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue,
+      helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    line-height: 1.3;
+  }
+  
+  h1,
+  h2 {
+    font-weight: 900;
+  }
+  
+  h1 {
+    font-size: var(--size-700);
+  }
+  
+  h2 {
+    font-size: var(--size-600);
+  }
+  
+  h3 {
+    font-size: var(--size-600);
+  }
+  
+  
+  figcaption {
+    font-size: var(--size-300);
+  
+    font-style: italic;
+    margin-top: 1rem;
+  }
+  
+  blockquote {
+    padding-left: var(--size-600);
+    border-left: 5px solid;
+    font-style: italic;
+  }
+
+  p,
+li {
+  max-width: 70ch;
 }
 
-body > * {
-  --layout-spacing: max(8vh, 3rem);
-  --max-width: 80ch;
-  width: min(100%, var(--max-width));
+h1 {
+  max-width: 20ch;
+}
+
+h2,
+h3 {
+  max-width: 35ch;
+}
+
+a {
+  color: aliceblue;
+  text-underline-offset: 0.08em;
+}
+
+a:focus {
+  outline: 2px solid currentColor;
+  outline-offset: 0.2em;
+}
+
+
+  /* end typography */
+
+
+/* utilities */
+
+.flow > * + * {
+  margin-top: var(--flow-space, 1em);
+}
+
+/* End utilites */
+
+a:not([class]) {
+  color: currentColor;
+}
+
+:focus {
+  outline: 2px dashed;
+  outline-offset: 0.25rem;
+}
+
+main:focus {
+  outline: none;
+}
+
+[href]:hover {
+  text-decoration: none;
+}
+
+/* posts  */
+
+.post {
+  --flow-space: var(--size-700);
+  display: grid;
+  justify-content: center;
+  width: 90vw;
+  width: clamp(16rem, 90vw, 70rem);
   margin-left: auto;
   margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
-.main-article {
-  max-width: 80ch;
+.post :is(h2, h3) {
+  --flow-space: var(--size-900);
 }
 
+.post :is(h2, h3) + * {
+  --flow-space: var(--size-400);
+}
 
-/* .logo-img {
-margin: 0 auto;
-  width: 80%;
-} */
+.post figure,
+.post figure + * {
+  --flow-space: var(--size-800);
+}
+
+@media (min-width: 45em) {
+  h1 {
+    font-size: var(--size-900);
+  }
+
+  h2 {
+    font-size: var(--size-700);
+  }
+
+  p {
+    font-size: var(--size-500);
+  }
+
+  figcaption {
+    font-size: var(--size-400);
+  }
+
+  blockquote p {
+    font-size: var(--size-600);
+    max-width: 40ch;
+  }
+
+  .post time {
+    font-size: var(--size-600);
+  }
+}
+
+/* end posts */
+
+
+
 
 .logo-container{
   display: flex;
@@ -181,37 +330,9 @@ article * + * {
   margin-top: 1em;
 }
 
-/* Typography */
-:is(h1, h2, h3) {
-  line-height: 1.2;
-}
 
-:is(h1, h2) {
-  max-width: 40ch;
-}
 
-:is(h2, h3):not(:first-child) {
-  margin-top: 2em;
-}
 
-a {
-  color: aliceblue;
-  text-underline-offset: 0.08em;
-}
-
-a:focus {
-  outline: 2px solid currentColor;
-  outline-offset: 0.2em;
-}
-
-.index-hero{
-  font-size: 2rem;
-  text-align: center;
-}
-
-.guides-container{
-  margin-top: 3rem;
-}
 
 .resources-container{
   margin-top: 3rem;
@@ -233,15 +354,17 @@ a:focus {
 background-color: #FFC300;
 }
 
-.main-article a:hover {
-color: bisque;
-}
+
 
 
 
 /* Card CSS */
 
 .articles_list {
+
+  display: grid;
+  grid-gap: 2em;
+  grid-template-columns: repeat(auto-fit, minmax(35ch, 1fr));
   list-style-type: none;
   width: 100%;
 }
