@@ -179,7 +179,6 @@ h3 {
 }
 
 a {
-  color: aliceblue;
   text-underline-offset: 0.08em;
 }
 
@@ -189,7 +188,6 @@ a:focus {
 }
 
 
-  /* end typography */
 
 
 /* utilities */
@@ -219,6 +217,7 @@ main:focus {
 }
 
 [href]:hover {
+  color: var(--accent);
   text-decoration: none;
 }
 
@@ -328,7 +327,7 @@ nav ul li {
 }
 
 nav [aria-current="page"] {
-  color: #FFC300;
+  color: var(--text);
   font-weight: bold;
 }
 
@@ -393,6 +392,7 @@ article * + * {
 
 
 .btn {  
+  color: aliceblue;
 text-align: center;
   text-decoration: none;
   background-color: var(--accent);
@@ -401,6 +401,7 @@ text-align: center;
 }
 
 .btn:hover {
+  color: aliceblue;
   background-color: var(--dim);
 }
 
