@@ -11,23 +11,33 @@ heroImage: ../assets/home.jpeg
 
 <section class="guides-container">
 <div class="index-hero">
-    <h2>Our guides</h2>
+    <a href="./guides"><h2>Our guides</h2></a>
 </div>
 <div class="guides-link-container">
     <h3>Helping to make making simpler</h3>
     <hr>
-    <a id="guides-a" href="./guides">Guides</a>
 </div>
+
+<ul role = "list" class = "articles_list flow">
+{% for guides in collections.guides | reverse %}
+  {% if loop.index0 < 4 %}
+  {% include "article-snippet.njk" %}
+  {% endif %}
+{% endfor %}
+</ul>
+<div class="container-center"><p class='btn-container'><a href="./guides" class="btn btn--primary">See all posts</a></p></div>
 </section>
 
 <section class="resources-container">
 <div class="index-hero">
-    <h2>Resources</h2>
+   <a href="./resources">
+       <h2>Resources</h2>
+    </a>
 </div>
 <div class="guides-link-container">
     <h3>Links, Channels, and, articles for you to enjoy </h3>
     <hr>
-    <a id="guides-a" href="./resources">Resources</a>
+    <div class="container-center"><p class='btn-container'><a href="./resources" class="btn btn--primary">Resources</a></p></div>
 </div>
 
 </section>
