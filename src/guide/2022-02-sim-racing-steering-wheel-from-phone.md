@@ -4,7 +4,7 @@ description: Wheel and wheel base
 date: 2022-02-25T01:54:58.950Z
 tags:
   - guides
-image: /assets/guides-img/e886286f-486a-4121-9ef7-2d1f4e74be8e.jpg
+image: /assets/guides-img/07bfc9a5-0e3e-4556-a1b2-b69f2fa4be38.jpg
 imageAlt: Steering wheel only in this image
 ---
 Hello everyone!!! I hope you did enjoy my last article about how to make the h shifter. this new one is now about making a sim racing Steering wheel!!!
