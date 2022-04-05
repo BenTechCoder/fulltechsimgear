@@ -5,5 +5,5 @@ module.exports = {
   siteName: "FullTech Sim Gear",
   siteDescription:
     "A Website dedicated guiding you on your sim gear and creative journey",
-  authorName: "Content by Nathan Website by Ben", // optional
+  authorName: "Nathan", // optional
 };
