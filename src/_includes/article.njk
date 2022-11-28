@@ -8,6 +8,7 @@ layout: "base.njk"
     <h1 class="article-title">
       {{ title }}
     </h1>
+    <p>Last updated on {{ date | readableDate }}</p>
     <figure class="main-article__figure">
       <img src="{{ image }}" alt=" {{ imageAlt }}">
       <figcaption>

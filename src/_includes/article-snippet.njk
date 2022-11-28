@@ -3,7 +3,7 @@
 <img src="{{ guides.data.image }}" alt="{{ guides.data.title }}" class="snippet_image">
 <h3 class="snippet_title">{{ guides.data.title }}</h3>
 <p class="snippet_body">{{ guides.data.description }}</p>
-<p class="snippet_body"> Last updated <span>{{ guides.data.date }}</span></p>
+<p class="snippet_body"> Last updated <span>{{ guides.data.date | readableDate}}</span></p>
 <p class='btn-container'><a href="{{ guides.url }}" class="btn btn--primary">Continue Reading</a></p>
 </article>
 </li>
